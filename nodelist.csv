@@ -1,0 +1,30 @@
+id,idname,party,sector,country,type
+uvdl,Ursula von der Leyen,cdu,Politik,Deutschland,1
+lk,Lars Klingbeil,spd,Politik,Deutschland,1
+nr,Norbert Rötgen,cdu,Politik,Deutschland,1
+sw,Sarah Wagenknecht,dl,Politik,Deutschland,1
+cs,Constanze Stelzmüller,NA,2,Deutschland,1
+cl,Christian Lindner,fdp,Politik,Deutschland,1
+ks,Karl Schlögel,NA,3,Deutschland,1
+lm,Ljudmyla Melnyk,NA,4,Ukraine,1
+kd,Kristina Dunz,NA,5,Deutschland,1
+el,Egils Levit,NA,1,Lettland,1
+ab,Annalena Baerbock,dg,1,Deutschland,1
+ft,Franz Timmermans,NA,1,Niederlande,1
+am,Andrij Melnyk,NA,1,Deutschland,1
+agl,Alexander Graf Lambsdorff,fdp,1,Deutschland,1
+er,Egon Ramms,NA,6,Deutschland,1
+rh,Robert Habeck,dg,1,Deutschland,1
+cm,Claudia Major,NA,1,Deutschland,1
+kp,Katja Petrowskaja,NA,4,Deutschland,1
+rk,Roderich Kiesewetter,cdu,1,Deutschland,1
+cl,Christine Lamprecht,spd,1,Deutschland,1
+sb,Stefanie Babst,NA,1,Deutschland,1
+ch,Christoph Heusgen,NA,1,Deutschland,1
+mw,Marina Weisband,NA,5,Deutschland,1
+os,Olaf Scholz,spd,politik,Deutschland,1
+cdu,CDU,cdu,politik,Deutschland,2
+spd,SPD,spd,politik,Deutschland,2
+fdp,FDP,fdp,politik,Deutschland,2
+dg,Die Grünen,dg,politik,Deutschland,2
+dl,Die Linke,dl,politik,Deutschland,2
